@@ -109,13 +109,12 @@ export default {
     }
     */
 
-    /*
+    
     // Access-Control-Allow-Origin list.
     allowedOrigins: [
-        "*",
-        "http://another_domain.com"
+        "*"
     ],
-    */
+    
 
     /*
     // Uncomment to enable plugin testing framework.
